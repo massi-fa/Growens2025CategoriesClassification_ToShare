@@ -1,3 +1,11 @@
+# Proprietary Code – © 2025 Growens, Inc.
+# All rights reserved.
+#
+# This source code is proprietary and confidential.
+# Unauthorized copying, distribution, modification, or use
+# of this code, in whole or in part, is strictly prohibited
+# without prior written permission from the owner.
+
 import argparse
 import os
 import json

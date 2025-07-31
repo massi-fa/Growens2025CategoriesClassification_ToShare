@@ -39,3 +39,12 @@ RGE_Classifiers/
 - The dataset used for training (RGE - Really Good Emails) is not included in this repository. To obtain the data, you must request access from the authors of the original paper.
 
 For questions or contributions, please open an issue or a pull request.
+
+
+# Proprietary Code – © 2025 Growens, Inc.
+# All rights reserved.
+#
+# This source code is proprietary and confidential.
+# Unauthorized copying, distribution, modification, or use
+# of this code, in whole or in part, is strictly prohibited
+# without prior written permission from the owner.
